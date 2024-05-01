@@ -1,4 +1,4 @@
-# Jerrin Shirks & Matthew Mobley :)
+# Jerrin Shirks & Whisky :)
 # Python 3.11.12
 
 import dis
